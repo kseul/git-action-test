@@ -8,7 +8,8 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <>
-      <div>my app💫</div>
+      <h4>my app💫</h4>
+      <div>추가1</div>
     </>
   );
 }
